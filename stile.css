@@ -1,0 +1,20 @@
+.navy{
+    padding: 25px;
+}
+.homeBody{
+    background-color: darkgray;
+    border: 1px solid black;
+    margin-left: 5px;
+    padding: 14px;
+}
+.header{
+    background-color:darkcyan;
+    padding: 2px;
+}
+.linkheader{
+    color:white;
+}
+#flex-container {
+    display: flex;
+    justify-content: flex-start
+}  
